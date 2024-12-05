@@ -4,7 +4,7 @@
   The Ohio State University
 
   Refering to and modifying example code from official Arduino SD example
-  and the DHT11 Nonblocking Script by Toan Nguyen
+  and the DHT11 Nonblocking Script by Toan Nguyen, requiring the following:
 
   This code is licensed under the Apache License, Version 2.0, January 2004.
   All rights to the libraries used are reserved by their respective owners.
