@@ -1,4 +1,5 @@
 %% Sunlight percentage for each day of the year in Columbus, Ohio
+%% By Joey Dalpra
 clc;
 close all;
 clear all;
