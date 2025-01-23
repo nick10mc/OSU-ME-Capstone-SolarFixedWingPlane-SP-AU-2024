@@ -1,4 +1,5 @@
 %% Flight time and power draw vs sunlight percent
+%% By Joey Dalpra
 clc;
 clear all;
 close all;
